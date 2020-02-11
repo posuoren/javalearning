@@ -1,4 +1,4 @@
-package com.posuoren.construct.factory;
+package com.posuoren.construct.factory.normal.dog;
 
 /**
  * @Description

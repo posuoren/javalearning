@@ -1,4 +1,9 @@
-package com.posuoren.construct.factory;
+package com.posuoren.construct.factory.normal;
+
+import com.posuoren.construct.factory.normal.dog.Corgi;
+import com.posuoren.construct.factory.normal.dog.Dog;
+import com.posuoren.construct.factory.normal.dog.Husky;
+import com.posuoren.construct.factory.normal.dog.Shepherd;
 
 /**
  * @Description
